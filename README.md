@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asiman</h1>
 <h3 align="center">Java Developer</h3>
 
-- 🌱 I’m currently learning **Spring Security and Microservices**
+- 🌱 I’m currently learning **Unit Testing and Microservices**
 
 - 💬 Ask me about **Java and Spring Boot.**
 

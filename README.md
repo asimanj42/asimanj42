@@ -20,6 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40" alt="docker logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  width="40" height="40" alt="jetbrains logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"  width="40" height="40" alt="tomcat logo"  />
+    <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png"  width="40" height="40" alt="thymeleaf logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"  width="40" height="40" alt="maven logo"  />
+  <img src="https://www.svgrepo.com/show/374111/swagger.svg"  width="40" height="40" alt="swagger logo"  />
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimanj42&show_icons=true&locale=en&layout=compact" alt="asimanj42" /></p>

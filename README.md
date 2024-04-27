@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asiman</h1>
-<h3 align="center">Future Java Backend Architect from Azerbaijan</h3>
+<h1 align="center">Hi, I'm Asiman 👋</h1>
+<h3 align="center">Future Java Backend Architect</h3>
 
 - 🔭 I’m currently working on [Bank Application 🏦](https://github.com/asimanj42/bank-app)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asimanmammadli2023@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and friendly and I like Spring Boot more than Java**
+- ⚡ Fun fact **Love Japan-made and old German cars 🚗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Asiman 👋</h1>
-<h3 align="center">Future Java Backend Architect</h3>
+<h1 align="center">Hi 👋, I'm Asiman</h1>
+<h3 align="center">Future Java Backend Architect from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [Bank Application 🏦](https://github.com/asimanj42/bank-app)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asimanmammadli2023@gmail.com**
 
-- ⚡ Fun fact **Love Japan-made and old German cars 🚗**
+- ⚡ Fun fact **I think I am funny and friendly and I like Spring Boot more than Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,6 +63,9 @@
 </a>
 <a href="https://www.jwt.io/" target="_blank" rel="noreferrer">
 <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
+</a>
+<a href="https://www.mybatis.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/mybatis/logo/32295ff550d29ca6e8b22c8a325e22c617791bf9/logo-bird-ninja.svg" alt="mybatis" width="40" height="40"/>
 </a>
 
 </p>

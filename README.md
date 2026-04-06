@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asimanmammadli2023@gmail.com**
 
-- ⚡ Fun fact **Love Japan-made cars and old Mercedes (w202, w210, w140, w211, w124, w220) 🚗**
+- ⚡ Fun fact **Can’t pick a car side: 60% German engineering, 40% Japanese reliability🚗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
